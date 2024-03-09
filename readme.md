@@ -1,9 +1,10 @@
-#Object Oriented Programming practice
+<h1> Object Oriented Programming practice </h1>
 
-Generation México
-Instructor: Juan Valencia
-Student: Adriana Ibarra
+- Generation México
+- Instructor: Juan Valencia
+- Student: Adriana Ibarra
 
--Class review
--Salary calculation
--Card creation
+## Practice: 
+- Class review
+- Salary calculation
+- Card creation
